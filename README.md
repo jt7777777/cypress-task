@@ -30,3 +30,8 @@ Here are test cases:
         2. Leave the username and password fields empty.
         3. Click the login button.
     - **Expected Result:** An error message or indication should be displayed that fields cannot be left empty.
+  
+    - Why are those test cases crucial?
+    - 1. We need to be sure that login functionality is working, it is essential of the system.
+      2. and 3. We need to bu sure that system is recognizing invalid data and not to be able get in the system with wrong data
+      4. We can not let user in to the system without any data, similiar principle like 2. and 3. 
